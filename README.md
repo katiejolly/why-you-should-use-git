@@ -1,7 +1,7 @@
 ---
 title: "Why you should use Git/GitHub!"
-author: "Katie Jolly"
-date: "12 March 2018"
+author: Katie Jolly
+date: 12 March 2018
 ---
 
 
