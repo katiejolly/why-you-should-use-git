@@ -24,8 +24,8 @@ I usually interact through GitHub through the `shell`, but to start out I think 
 
 1. Navigate to the homepage on GitHub. It should look something like this layout (with much less text most likely)
 
-![github home screen](images\home-screen.JPG)
+![github home screen](images/home-screen.JPG)
 
 2. Either click the green `New Repository` button on the right side of the screen or the `+` and `New repository` on the top of the screen. You should now see a screen that looks like this.
 
-![new repository screen](images\new-repo.JPG)
+![new repository screen](images/new-repo.JPG)
