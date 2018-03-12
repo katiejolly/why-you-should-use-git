@@ -1,9 +1,6 @@
----
-title: "Why you should use Git/GitHub!"
-author: Katie Jolly
-date: 12 March 2018
----
+# Why you should use Git/GitHub!
 
+## RLadies, 12 March 2018
 
 ## How people use GitHub (not just storing code)
 
