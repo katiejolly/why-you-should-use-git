@@ -1,6 +1,3 @@
-# Why you should use Git/GitHub!
-
-## RLadies, 12 March 2018
 
 ## How people use GitHub (not just storing code)
 
@@ -44,7 +41,7 @@ I usually interact through GitHub through the `shell`, but to start out I think 
 
 ![clone the repository](images/clone.JPG)
 
-6. Navigate over to Sourcetree.
+6. Navigate over to Sourcetree. First we need to make sure you have HTTPS set up as your protocol. Click `Remote` at the top of the screen to see your remote repositories. Select `Edit Accounts...` and then click on your account. For protocol it should say HTTPS. If it says SSH, change it.
 
 7. Click `Clone` at the top of the page. Your screen should look like this!
 
